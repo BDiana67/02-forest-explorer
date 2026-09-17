@@ -1,0 +1,14 @@
+CanvasModulate
+Control
+Label
+CollisionShape2D
+CharacterBody2D
+Area2D
+Button
+LineEdit
+PointLight2D
+CanvasLayer
+TextureRect
+HBoxContainer
+MarginContainer
+Sprite2D

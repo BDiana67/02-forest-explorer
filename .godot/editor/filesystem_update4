@@ -1,0 +1,11 @@
+res://scenes/forest.tscn
+res://assets/1.tres
+res://scenes/camp.tscn
+res://scenes/ui.tscn
+res://scenes/player.tscn
+res://script/name.gd
+res://scenes/name.tscn
+res://script/global.gd
+res://script/Player.gd
+res://script/zone.gd
+res://scenes/next_level.tscn

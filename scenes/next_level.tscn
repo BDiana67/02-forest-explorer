@@ -1,0 +1,35 @@
+[gd_scene format=3 uid="uid://c2tq2bb6qqjuk"]
+
+[ext_resource type="FontFile" uid="uid://docn8gc40snbw" path="res://assets/ASSET_PACK_02/ComicoroRu_0.ttf" id="1_rf0ph"]
+
+[sub_resource type="Theme" id="Theme_g7enf"]
+default_font = ExtResource("1_rf0ph")
+
+[node name="NextLevel" type="Control" unique_id=1275542547]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="." unique_id=1515535478]
+custom_maximum_size = Vector2(300, -1)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -26.0
+offset_top = -9.0
+offset_right = 34.0
+offset_bottom = 10.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+theme = SubResource("Theme_g7enf")
+text = "THE END"
+
+[node name="CanvasModulate" type="CanvasModulate" parent="." unique_id=755987745]
+color = Color(0.8185653, 0.30085418, 0.60325325, 1)
